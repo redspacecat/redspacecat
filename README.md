@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, HTML, Javascript, and other web stuff.
 - 📫 You can reach me on [my Scratch profile](https://scratch.mit.edu/users/redspacecat#comments)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am cool.
+- ⚡ Fun fact: I exist
 
 <!---
 redspacecat/redspacecat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
