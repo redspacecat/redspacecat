@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redspacecat
-- 👀 I’m interested in programming on [Scratch](https://scratch.mit.edu/) and creating a [geography learning website](https://geographygenius.github.io)
+- 👀 I’m interested in programming on [Scratch](https://scratch.mit.edu/) and creating some useful tools
 - 🌱 I’m currently learning Python, HTML, Javascript, and other web stuff.
 - 📫 You can reach me on [my Scratch profile](https://scratch.mit.edu/users/redspacecat#comments)
 - 😄 Pronouns: he/him
