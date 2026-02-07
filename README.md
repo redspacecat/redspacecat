@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @redspacecat
-- 👀 I’m interested in programming and creating some useful tools
-- 🌱 I’m currently learning Python, HTML, Javascript, and other web stuff.
-- 📫 You can reach me on [Scratch](https://scratch.mit.edu/users/redspacecat#comments) or github
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I exist
+Hi, I'm @redspacecat
+
+![Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
